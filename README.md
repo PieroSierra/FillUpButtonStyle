@@ -6,7 +6,7 @@ When applied to a SwiftUI Button, this style:
 * Sets up a pill visual style with icon + text
 * Sets up the button to be reactive to press-and-hold
 
-![Fill Up Button Example](FillUpButton.mov)
+![Fill Up Button Example](FillUpButtonSmall.mov)
 
 ![Fill Up Button Example](button.png)
 
