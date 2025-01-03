@@ -6,7 +6,9 @@ When applied to a SwiftUI Button, this style:
 * Sets up a pill visual style with icon + text
 * Sets up the button to be reactive to press-and-hold
 
-![Full Up Button Example](button.png)
+![Fill Up Button Example](FillUpButton.mov)
+
+![Fill Up Button Example](button.png)
 
 When pressing-and-holding, the button progressively fills up, while playing a build-up sound and increasingly strong haptic vibration.  
 
